@@ -55,4 +55,4 @@ Botão para definir a velocidade do personagem no Roblox digitando um valor.
 4. Cole o código do arquivo SpeedButton.lua
 5. Execute o jogo
 
-Compatível com mobile (Android).
+Compatível com mobile (Android)
